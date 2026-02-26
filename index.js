@@ -9,7 +9,7 @@ const client = new Client({
     ]
 });
 
-const ID = '218233568315310081';
+const ID = '263100863478890496';
 
 client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}`);
